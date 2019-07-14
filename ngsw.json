@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1563059966581,
+  "timestamp": 1563142031709,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -105,7 +105,7 @@
         "/common.58f752eb43ceb0a9b35c.js",
         "/es2015-polyfills.6830bff5c1068b994f4a.js",
         "/index.html",
-        "/main.9d930a7a485dc43744e1.js",
+        "/main.bf8b39431ff77ec4cc80.js",
         "/polyfills.2a700ed931a39030654e.js",
         "/runtime.bca2b831eee3b1b124a9.js",
         "/styles.8de2d511ae9a1f37bbcb.css"
@@ -130,6 +130,8 @@
         "/assets/icon/ibis_hotel.jpg",
         "/assets/icon/kanu_spree.jpg",
         "/assets/icon/landscape-615429_1920.jpg",
+        "/assets/icon/trave_green_transparent_logo.png",
+        "/assets/icon/trave_green_white_logo.png",
         "/assets/icon/windrad.jpg",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -253,6 +255,8 @@
     "/assets/icon/ibis_hotel.jpg": "2980b3acf41c53f6a2b48f6562fab087bf6c8704",
     "/assets/icon/kanu_spree.jpg": "fb691d3924be9c57de19370501f900d2adb1ac29",
     "/assets/icon/landscape-615429_1920.jpg": "caf7c7fd90fe889f8fe9b0198957d461045c57e4",
+    "/assets/icon/trave_green_transparent_logo.png": "922e97d01cb408fa8bf09db46bd126facf1b4c31",
+    "/assets/icon/trave_green_white_logo.png": "a1f89ff70ff94495ffa386fad70eded6fd5fe1f4",
     "/assets/icon/windrad.jpg": "c052a8f5aa86889718805252cd3751a79424c285",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -265,8 +269,8 @@
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/common.58f752eb43ceb0a9b35c.js": "a63cbafa77fe453d4eeb13372e2039dfbf6f522e",
     "/es2015-polyfills.6830bff5c1068b994f4a.js": "373a2379e2225c70d07ae5a7a676739336dde371",
-    "/index.html": "25377aad17f9663584ab004ee885bd4158988f1c",
-    "/main.9d930a7a485dc43744e1.js": "2dbf1025864d59045e4a56953896437dc1b39b49",
+    "/index.html": "e39ee8608cb92bdf7371170f5226498bd312f875",
+    "/main.bf8b39431ff77ec4cc80.js": "ec725f2659f2de8ec06cbb84ded245af1928ba78",
     "/polyfills.2a700ed931a39030654e.js": "d15c8b45520df14ea9b2f05c7fffc36476b8a104",
     "/runtime.bca2b831eee3b1b124a9.js": "5b8f5b7ba99328a3a635922cb47b2a3a012dc6b1",
     "/styles.8de2d511ae9a1f37bbcb.css": "b517f4abb353123ccdfe333604c8242ac1fd8e7e"
